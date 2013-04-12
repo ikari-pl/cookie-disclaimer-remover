@@ -25,5 +25,9 @@ function cookieDisclaimerRemove() {
 if (document.addEventListener) {
     document.addEventListener("DOMContentLoaded", cookieDisclaimerRemove, false);
 } else {
-    console.log("If you can see this, I don't like your browser. I am a lazy developer that wanted the first version to support his own needs first. So I remove the annoying stuff in the browsers I use, not in the browsers you use.");
+    console.log("If you can see this, I don't like your browser. "+
+    	"I am a lazy developer that wanted the first version to support "+
+    	"his own needs first. So I remove the annoying stuff in the browsers "+
+    	"I use, not in the browsers you use. BUT! :) Each and every "+
+    	"improvement and pull request is very welcome!");
 }
