@@ -24,6 +24,21 @@ Right now it naïvely removes all HTML elements that have an ID or a class
 starting with "cookie". Surprisingly, it works for me.
 
 
+Supported sites (it seems to be working on...)
+----------------------------------------------
+
+* demotywatory.pl
+* gazeta.pl
+* dzienniklodzki.pl
+* wykop.pl
+
+If you find other sites it proved useful on, don't hesitate to add them here!
+
+TO-DO
+-----
+
+* make it click something like "OK" or "I agree" instead of just removing the layer
+
 More information
 ----------------
 
