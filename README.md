@@ -20,4 +20,4 @@ More information
 
 
 [1]: http://userscripts.org/about/installing
-[2]: https://raw.github.com/ikari-pl/cookie-disclaimer-remover/blob/master/cookieInfo.user.js
+[2]: https://raw.github.com/ikari-pl/cookie-disclaimer-remover/master/cookieInfo.user.js
