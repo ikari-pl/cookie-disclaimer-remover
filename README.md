@@ -25,7 +25,7 @@ To get the script, just click here: [cookieInfo.user.js -- Cookie Disclaimer Rem
 How it works (technically)
 --------------------------
 
-Right now it naïvely removes all HTML elements that have an ID or a class 
+Right now it naïvely removes all HTML elements that have an ID containing or a class 
 starting with "cookie". Surprisingly, it works for me.
 
 
@@ -35,6 +35,7 @@ Supported sites (it seems to be working on...)
 * demotywatory.pl
 * dzienniklodzki.pl
 * gazeta.pl
+* onet.pl
 * polskibus.com
 * wykop.pl
 
