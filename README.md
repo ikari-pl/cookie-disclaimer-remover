@@ -15,9 +15,9 @@ Installation
 If you are new to this, please see [The Userscript Instalation Manual][1].
 
 You will most likely need a monkey. Not an alive one, of course, but to use
-so called "userscripts", Opera uses may need [Violent Monkey][3],
-Mozilla Firefox will install [Greasemonkey][4] and Google Chrome users should
-go for [Tampermonkey][5] extension.
+so called "userscripts", Opera users may need [Violent Monkey][3],
+Mozilla Firefox users will install [Greasemonkey][4] and Google Chrome users
+should go for [Tampermonkey][5] extension.
 
 To get the script, just click here: [cookieInfo.user.js -- Cookie Disclaimer Remover][2]
 
