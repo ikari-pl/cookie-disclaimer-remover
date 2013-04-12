@@ -2,7 +2,9 @@
 // @name        Cookie disclaimer remover
 // @description God how we in Europe hate the idiotic law that enforces every site to display a huge disclaimer about cookies being used!
 // @include     http*://*
-// @version     0.1
+// @version     0.2
+// @updateURL   https://raw.github.com/ikari-pl/cookie-disclaimer-remover/master/cookieInfo.user.js
+// @downloadURL https://raw.github.com/ikari-pl/cookie-disclaimer-remover/master/cookieInfo.user.js
 // @copyright   2013+, Cezar "ikari" Pokorski
 // ==/UserScript==
 
