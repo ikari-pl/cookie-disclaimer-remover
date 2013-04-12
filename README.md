@@ -1,7 +1,7 @@
 Cookie Disclaimer Remover
 =========================
 
-All websites display the UK and EU visitors this -f*cking- annoying popups and banners about using cookies like it was something new/bad. It's annoying as hell, it takes up my screen, it requires me to aim at the close button/icon to get rid of a message I have never ever wanted in the first place. This userscript automatically kills all (well, that's a brave assumption) those annoying messages.
+All websites display the UK and EU visitors this annoying popups and banners about using cookies like it was something new/bad. It's annoying as hell, it takes up my screen, it requires me to aim at the close button/icon to get rid of a message I have never ever wanted in the first place. This userscript automatically kills all (well, that's a brave assumption) those annoying messages.
 
 
 Installation
@@ -10,6 +10,12 @@ Installation
 If you are new to this, please see [The Userscript Instalation Manual][1].
 
 To get the script, just click here: [cookieInfo.user.js -- Cookie Disclaimer Remover][2]
+
+
+How it works (technically)
+--------------------------
+
+Right now it naïvely removes all HTML elements that have an ID or a class starting with "cookie". Surprisingly, it works for me.
 
 
 More information
