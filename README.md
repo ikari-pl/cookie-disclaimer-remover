@@ -28,8 +28,9 @@ Supported sites (it seems to be working on...)
 ----------------------------------------------
 
 * demotywatory.pl
-* gazeta.pl
 * dzienniklodzki.pl
+* gazeta.pl
+* polskibus.com
 * wykop.pl
 
 If you find other sites it proved useful on, don't hesitate to add them here!
