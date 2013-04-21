@@ -37,6 +37,7 @@ Supported sites (it seems to be working on...)
 * gazeta.pl
 * onet.pl
 * polskibus.com
+* wp.pl
 * wykop.pl
 
 If you find other sites it proved useful on, don't hesitate to add them here!
